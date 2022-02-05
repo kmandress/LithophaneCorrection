@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+/.vs/LithophaneCorrection/v16/ipch/AutoPCH
+/.vs/LithophaneCorrection/v16
+/Debug
+/LithophaneCorrection/.vs/LithophaneCorrection/v16
+/LithophaneCorrection/Debug
+/LithophaneCorrection/x64/Debug
+/x64/Debug

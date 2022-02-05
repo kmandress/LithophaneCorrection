@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <LocalDebuggerCommandArguments>TestData\foo.jpg TestData\foo.out.jpg</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>TestData\6Resize.jpg TestData\7Corrected.jpg</LocalDebuggerCommandArguments>
     <LocalDebuggerWorkingDirectory>F:\Users\parents\Documents\Making\GitRepos\LithophaneCorrection</LocalDebuggerWorkingDirectory>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
